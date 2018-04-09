@@ -7,7 +7,7 @@ gitment 评论库
 
 注意的地方，配置 _config.yml
 
-我给Gitment专门建了一个叫gitment的库，所以在repo:处填gitment，也可以使用博客本身的库名称
+我给Gitment专门建了一个叫gitment的库，所以在repo处填gitment，也可以使用博客本身的库名称
 ```
 repo：gitment  //（这个gitment 是库名称）
 ```
